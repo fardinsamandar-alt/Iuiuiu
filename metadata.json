@@ -1,0 +1,6 @@
+{
+  "name": "Vision Editor Pro",
+  "description": "Professional video editor with CapCut-style interface, Koloro adjustments, and Node Video precision. Supports high-fidelity 120 FPS export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["video_editing", "color_grading", "high_fps_export"]
+}
